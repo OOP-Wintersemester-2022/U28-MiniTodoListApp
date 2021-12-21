@@ -23,5 +23,5 @@ Die MiniTodoListApp soll folgende Funktionalitäten haben:
 
 ![MiniTodoListApp nachdem Einkaufen erledigt ist](./docs/todolist3.png)
 
-* abgehakte Items können durch Klick wieder nicht-abgehakt gemacht werden, was ihren Hintergrund wieder grau einfärbt 
+* abgehakte Items können durch Klick wieder ent-abgehakt werden, was ihren Hintergrund wieder grau einfärbt 
 
