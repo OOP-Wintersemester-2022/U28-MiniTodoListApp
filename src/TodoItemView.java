@@ -36,11 +36,12 @@ public class TodoItemView {
     }
 
     public void onClick(int xPos, int yPos) {
-        background = Colors.GREY;
-        rectangle.setColor(background);
-
         if (isClicked(xPos, yPos)) {
-            background = Colors.BLUE;
+            if(background == Colors.BLUE) {
+                background = Colors.GREY;
+            } else {
+                background = Colors.BLUE;
+            }
             rectangle.setColor(background);
         }
     }
