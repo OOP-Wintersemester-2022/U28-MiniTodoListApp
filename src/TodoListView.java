@@ -29,6 +29,8 @@ public class TodoListView {
 
     public void onClick(int xPos, int yPos) {
         if (isButtonClicked(xPos, yPos)) {
+            System.out.println("Geben Sie Ihr TodoItem ein:");
+
             todoList.addItem(new Scanner(System.in).nextLine());
             items.add(new TodoItemView(todoList.getLastItem()));
         } else {
