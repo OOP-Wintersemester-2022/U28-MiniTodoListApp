@@ -1,0 +1,12 @@
+{
+    "title": "U28 MiniTodoListApp",
+    "abstract": "Eine kleine App auf Basis der *GraphicsApp*, die eine einfache ToDo-Liste darstellt und verwalten lässt.",
+    "hasStarterCode": true,
+    "hasSolutionCode": true,
+    "solutionComment": "Lösungsvorschlag zur Aufgabenstellung",
+    "simpleSolutionComment": "",
+    "advancedSolutionComment": "",
+    "hasSimpleSolutionCode": false,
+    "hasAdvancedSolutionCode": false,
+    "solutionAvailableOn": "2022-01-17"
+}
